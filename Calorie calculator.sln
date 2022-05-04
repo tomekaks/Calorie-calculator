@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calorie calculator", "Calorie calculator\Calorie calculator.csproj", "{12F28AF6-B530-4BCB-AAFF-5F802A65BBC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCalculator.Core", "CalorieCalculator.Core\CalorieCalculator.Core.csproj", "{0794C1DB-74F4-4C52-855A-37FB426F690A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalorieCalculator.Desktop", "CalorieCalculator.Desktop\CalorieCalculator.Desktop.csproj", "{BB4A6599-72EC-4F54-9CE2-F51A9D637B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12F28AF6-B530-4BCB-AAFF-5F802A65BBC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12F28AF6-B530-4BCB-AAFF-5F802A65BBC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12F28AF6-B530-4BCB-AAFF-5F802A65BBC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12F28AF6-B530-4BCB-AAFF-5F802A65BBC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0794C1DB-74F4-4C52-855A-37FB426F690A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0794C1DB-74F4-4C52-855A-37FB426F690A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0794C1DB-74F4-4C52-855A-37FB426F690A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0794C1DB-74F4-4C52-855A-37FB426F690A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB4A6599-72EC-4F54-9CE2-F51A9D637B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4A6599-72EC-4F54-9CE2-F51A9D637B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4A6599-72EC-4F54-9CE2-F51A9D637B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4A6599-72EC-4F54-9CE2-F51A9D637B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EFD26D11-0F5F-4239-93E8-08C5298323CF}
+	EndGlobalSection
+EndGlobal
